@@ -1,0 +1,48 @@
+table{
+    width:100%;
+    border-radius: 10px;
+    margin-left: 50px;
+    
+}
+.container{
+    
+    padding: 2px 2px;
+    margin-top: 10px;
+
+}
+
+.card {
+    width: 100%;
+    background-color:rgba(140, 143, 147, 0.57);
+}
+  
+.btnst{
+    
+   
+    padding: 10px 10px;
+
+}
+
+
+td{
+    padding: 15px;
+}
+
+input{
+    border: 1px solid #000000;
+    margin-top: 10px;
+    width: 80%;
+    padding: 6px 6px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: content-box;
+    border-radius: 10px;
+
+}
+
+
+.testcheck{
+    font-size: 20px;
+    width: fit-content;
+}
+ 

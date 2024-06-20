@@ -1,0 +1,66 @@
+*
+{
+	padding:0;
+	margin:0;	
+}
+body
+{
+    background-color: #FECAD6;
+}
+
+.fistbar
+{
+	background-color:#AF7AC5;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:20px;	
+}
+
+.logo
+{
+	font-size:75px;
+	text-decoration:none;
+	color:rgb(0, 0, 0);
+}
+.firstp
+{
+    text-align:center;
+    font-size:40px;
+    color:black;
+    padding-top:20px;
+}
+.secodnp
+{
+    text-align:center;
+    font-size:40px;
+    color:black;
+    padding-top:10px;
+}
+.tablea
+{
+    width: 100%;   
+}
+.tablea, tr, th, td
+{
+	border: 1px solid black;
+}
+.orderdetails
+{	
+	background-color: beige;
+    margin:40px;
+
+}
+.tableas
+{
+    width: 100%;	
+}
+.tableas, tr, th, td
+{
+	border: 1px solid black;
+}
+.medicinedetails
+{	
+	background-color: beige;
+    margin:40px;
+}

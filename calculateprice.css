@@ -1,0 +1,73 @@
+*
+{
+	padding:0;
+	margin:0;	
+}
+body
+{
+    background-image : url("LOGO.jpg");
+}
+
+
+.fistdeco
+{
+	background-color:#AF7AC5;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:20px;	
+}
+
+.logo
+{
+	font-size:75px;
+	text-decoration:none;
+	color:rgb(0, 0, 0);
+}
+.sphoto h4
+{
+	font-size:25px;
+	padding-top:20px;
+}
+.disbio
+{
+	font-size:15px;
+	padding-top:20px;
+	text-align:justify;
+}
+
+.tablea
+{
+    width: 100%;
+	height: 100px;
+	margin-top: 40px;	
+}
+.tablea, tr, th, td
+{
+	border: 1px solid black;
+}
+.tableas
+{
+    width: 100%;	
+}
+.tableas, tr, th, td
+{
+	border: 1px solid black;
+}
+
+.tableas tr th
+{
+	width: 15%;
+}
+.orderdetails
+{	
+	background-color: beige;
+    margin:40px;
+}
+.super
+{
+    text-align:center;
+    font-size:40px;
+    color:black;
+    padding-top:20px;
+}

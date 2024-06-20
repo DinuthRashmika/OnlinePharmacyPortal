@@ -1,0 +1,157 @@
+body {
+    background-color: rgb(120, 169, 221);
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+*{
+	padding:0;
+	margin:0;
+}
+.firstnavbar
+{
+    margin-top: 100px;
+	background-color:#76448A;
+	padding:4px;
+	
+	
+}
+.firstnavbar a
+{
+	color:white;
+	margin:18px;
+	text-decoration:none;
+	font-size:13px;
+	font-family:'Poppins', sans-serif;
+	
+}
+.firstnavbar a:hover
+{
+	color:#F39C12 ;
+}
+.logoschbar
+{
+    margin-top: 1px;
+    background-color:#b011f5;
+	padding-top:15px;
+	padding-bottom:15px;
+	display:flex;
+	
+}
+.Logo
+{
+	font-size:40px;
+	color:black;
+	padding-left:15px;
+	text-decoration:none;
+	
+}
+.buttonset
+{
+	padding-top:15px;
+	padding-left:100px;
+}
+.buttonset input
+{
+   
+	border-radius:21px;
+	border:0;
+	padding:0 56px 0 25px;
+	margin:2px;
+	
+}
+.userregiste
+{
+	width:75px;
+	height:20PX;
+	background-color:white;
+	border:0;
+	border-radius:21px;
+	margin:2px;
+}
+.userregiste:hover
+{
+	background-color:#F4D03F;
+}
+
+.treenavbar
+{
+	
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#D7BDE2;
+}
+
+.treenavbar a
+{
+	
+	color:black;
+	text-decoration:none;
+    margin:80px;
+	font-size:18px;
+}
+.treenavbar a:active
+{
+	color:white;
+}
+
+.DB a{
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.dropdown-options {
+	display: none;
+	position: absolute;
+	overflow: auto;
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+  }
+
+  .dropdown-options a{
+    color:white;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  
+  .dropdown:hover .dropdown-options {
+	display: block;
+
+  }
+  .profile {
+	padding: 20px;
+	text-align: center;
+}
+
+.profile img {
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+.FRM {
+    margin-top: 20px;
+    margin-left: 500px;
+	position: absolute;
+	text-align: left;
+	left: 100px;
+	top: 20;
+	max-width: 800px;
+	padding: 70px;
+	/* border: 0px solid #b8319f; */
+	border-radius: 10px;
+	background-color: #a8a9aa;
+	
+}
+.sidebar {
+	background-color: #76448A;
+	color: #fff;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 200px;
+}
+ 
